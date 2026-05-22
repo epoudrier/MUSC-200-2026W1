@@ -1,0 +1,42 @@
+!!!OTL: Chord Building Exercises
+!!!OPR: Secondary Dominants in Major: V, ii, IV, vi
+**kern	**harm	**kern
+*part 2	*	*part1
+*clefF4	*	*clefG2
+*M4/4	*M4/4	*M4/4
+*k[]	*k[]	*k[]
+*C:	*C:	*C:
+=1	=1	=1
+1D	V/V	1d f# a
+=2	=2	=2
+1A	V/ii	1a c# e
+=3	=3	=3
+1C	V/IV	1c e g
+=4	=4	=4
+1E	V/vi	1e g# b
+!!LO:PB:g=original
+=||1	=||1	=||1
+*k[f#c#g#]	*	*k[f#c#g#]
+*A:	*A:	*A:
+1B	V7/V	1d# f# a
+=2	=2	=2
+1F#	V7/ii	1a# c# e
+=3	=3=	=3
+1A	V7/IV	1c# e# g#
+=4	=4	=4
+1C#	V7/vi	1e# g# b
+!!LO:PB:g=original
+=||1	=||1	=||1
+*k[b-e-]	*	*k[b-e-]
+*B-:	*B-:	*B-:
+1C	V7/V	1e g b-
+=2	=2	=2
+1BBn	V7b/ii	1g d f
+=3	=3	=3
+1F	V7c/IV	1b- d a-
+=4	=4	=4
+1C	V7d/vi	1d f# a
+==	==	==
+*-	*-	*-
+!!!EED: Ève Poudrier
+!!!EEV: 2026/05/21
