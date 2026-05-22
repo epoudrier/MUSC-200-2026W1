@@ -1,0 +1,55 @@
+!!!OTL: Chord Building Exercises
+!!!OPR: Resolving Secondary Dominants in minor: V, III, iv, VI
+**kern	**harm	**kern
+*part 2	*	*part1
+*clefF4	*	*clefG2
+*M4/4	*M4/4	*M4/4
+*k[]	*k[]	*k[]
+*a:	*a:	*a:
+=1	=1	=1
+2B	V/V*	2d# a b
+2E	V	2e g# b
+=2	=2	=2
+2G	V/III	2b d f
+2C	III	2cc e g
+=3	=3	=3
+2A	V/iv	2c# e g
+2D	iv	2d f A
+=4	=4	=4
+2C	V/VI	2e g b-
+2F	VI	2f a c
+!!LO:PB:g=original
+=||1	=||1	=||1
+*k[f#c#g#]	*	*k[f#c#g#]
+*f#:	*f#:	*f#:
+2G#	V7/V	2b# d# f#
+2C#	V	2cc# e# g#
+=2	=2	=2
+2E	V7/III	2g# b d
+2A	III	2a c# e
+=3	=3=	=3
+2F#	V7/iv	2a# c# e
+2B	iv	2b d f#
+=4	=4	=4
+2A	V7/VI*	2c# a gn
+2D	VI	2d f# a
+!!LO:PB:g=original
+=||1	=||1	=||1
+*k[b-e-]	*	*k[b-e-]
+*g:	*g:	*g:
+2A	V7/V	2c# e g
+2D	V	2d f# A
+=2	=2	=2
+2A	V7b/III	2f cc e-
+2B-	III	2b- d f
+=3	=3	=3
+2D	V7c/iv	2g bn f
+2C	iv	2cc e- g
+=4	=4	=4
+2A-	V7d/VI	2b- d f
+2G	VI6	2e- g b-
+==	==	==
+*-	*-	*-
+!!!EED: Ève Poudrier
+!!!EEV: 2026/05/21
+!!!RNB: The asterisk indicates an incomplete chord where the root is doubled and the 5th is omitted.
