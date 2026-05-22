@@ -1,5 +1,5 @@
 !!!OTL: Chord Building Exercises
-!!!OPR: Secondary Dominants in Major: V, ii, IV, vi
+!!!OPR: Secondary Dominants in minor: V, III, iv, VI
 **kern	**harm	**kern
 *part 2	*	*part1
 *clefF4	*	*clefG2
@@ -17,8 +17,8 @@
 !!LO:PB:g=original
 =||1	=||1	=||1
 *k[f#c#g#]	*	*k[f#c#g#]
-*A:	*	*A:
-1Byy	A: V7/V	1ryy
+*A:	*A:	*A:
+1Byy	V7/V	1ryy
 =2	=2	=2
 1F#yy	V7/ii	1ryy
 =3	=3=	=3
@@ -28,8 +28,8 @@
 !!LO:PB:g=original
 =||1	=||1	=||1
 *k[b-e-]	*	*k[b-e-]
-*B-:	*	*B-:
-1Cyy	B-: V7/V	1ryy
+*B-:	*B-:	*B-:
+1Cyy	V7/V	1ryy
 =2	=2	=2
 1Gyy	V7b/ii	1ryy
 =3	=3	=3
